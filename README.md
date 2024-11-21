@@ -6,8 +6,6 @@ Install my-project with npm
 
 ```bash
   npm install 
-![Screenshot from 2024-11-21 14-20-22](https://github.com/user-attachments/assets/6206a442-d5ec-4119-9f44-2fb819ccd56f)
-
   npm start
 ```
 
@@ -17,4 +15,6 @@ Install my-project with npm
 
 
 
-![Screenshot from 2024-11-21 14-24-04](https://github.com/user-attachments/assets/81d2c28e-45bb-45d2-8490-68964186b24f)
+![Screenshot from 2024-11-21 14-24-04](https://github.com/user-attachments/assets/570ae019-d356-444d-8f82-8a66f2428dce)
+
+
