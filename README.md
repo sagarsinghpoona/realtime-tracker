@@ -6,15 +6,14 @@ Install my-project with npm
 
 ```bash
   npm install 
-  npm start
+  npx nodemon app.js
 ```
 
 ## sample
 
-![Screenshot from 2024-11-21 14-24-04](https://github.com/user-attachments/assets/08d95723-83aa-4606-b7cd-5bb35e60f36b)
 
 
+![Screenshot from 2024-11-21 14-42-55](https://github.com/user-attachments/assets/3d5f6c7e-2fec-4230-a2dc-11263b951de8)
 
-![Screenshot from 2024-11-21 14-24-04](https://github.com/user-attachments/assets/570ae019-d356-444d-8f82-8a66f2428dce)
 
-
+![Screenshot from 2024-11-21 14-43-27](https://github.com/user-attachments/assets/c09d1590-c8da-4626-b8a4-5a44ad7e5601)
